@@ -29,7 +29,7 @@ Do some data science.
 
 
 ---
-## Insert exercise title here
+## Abc
 
 ```yaml
 type: MultipleChoiceExercise
@@ -39,22 +39,7 @@ xp:
 key: 3e22f7eb1f
 ```
 
-fffddfdffdffdfdf
 
-
-1. fdfdfdf
-2. 
-
-- afff
-dfdffd
-- 
-
-
-dfffd
-dffdfd
-dfffd
-
-1. 
 
 `@instructions`
 
